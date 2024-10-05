@@ -143,4 +143,4 @@ app.delete('/jobs/:id', (request, response) => {
 });
 
 // mendengarkan event yang terjadi pada localhost dengan port 3000
-app.listen(3000, () => console.log('listenig on localhos:3000'));
+app.listen(5000, () => console.log('listenig on localhost:5000'));
